@@ -4,7 +4,7 @@ Welcome to PIMA Open Source Android Application
 PIMA is a Mock on Galaxy Note 7 
 
 
-**Download the 'Explosion Test' app to check whether your mobile will explode or not.**
+**Download the 'PIMA' app to check whether your mobile will explode or not.**
 
 ---
 
