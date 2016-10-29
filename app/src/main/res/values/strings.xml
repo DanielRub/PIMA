@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PIMA</string>
+    <string name="action_settings">Settings</string>
+    <string name="check_your_Phone">Check whether your mobile will explode or not.</string>
+    <string name="please_wait">Comparing PHONE tempature with Temperature of the SUN</string>
+    <string name="phone_version">Exploding mobile phones spreading like wildfire, mobile phone users started to look at their devices in doubt.</string>
+    <string name="phone_name">Phone Model :  </string>
+    <string name="samsung">Samsung is working with the US Consumer Product Safety Commission (CPSC) to investigate the recently reported cases involving the Galaxy Note7. While the investigation is taking place, Samsung is asking all carrier and retail partners here and around the globe to stop sales and exchanges of the Galaxy Note7. Since the affected devices can overheat and pose a safety risk, we are asking consumers with an original Galaxy Note7 or a replacement Galaxy Note7 to power it down and contact the carrier or retail outlet where you purchased your Galaxy Note7. If you bought your Galaxy Note7 from Samsung.com or have questions, you should contact us at 1-844-365-6197 and we can help you.</string>
+    <string name="serial_n">Serial Number :  </string>
+    <string name="test">With This Phone Explode?</string>
+    <string name="thanks">Thanks</string>
+    <string name="version">4.0</string>
+    <string name="name">Open Source Project</string>
+    <string name="dev_name">Kevin Janvier</string>
+    <string name="share_via">Share Via</string>
+    <string name="God">Man Proposes, God Disposes - Proverbs 19:21</string>
+    <string name="success">Your Device was found to be 99 % Explosion proof and what about the remaining 1 Percentage ? Any Device may explode</string>
+    <string name="send_to">Share With :</string>
+    <string name="shared_via">via <a ref="http://google.com">Kevin\'s News App</a></string>
+
+</resources>

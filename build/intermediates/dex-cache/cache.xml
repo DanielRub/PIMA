@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_82dda649b03fe510acd9bc1f3466961615b20fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_d5253cf99654f2a5b9650d3963a51243aa063b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_1a3cff35fe3c679c263167cd08c47675242b9a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-24.2.1_00efb12c58757cf741bf34044b9b9a7b19244c7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-24.2.1_bc2c568562c481d6f7a3f6e5cdad4545e4dde149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-24.2.1_764aa52b5eee30441ff4e2156bff8cdc417b95ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-24.2.1_6bda86d8ee56b9c3b70d7da3509885edc557d75f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-design-24.2.1_5893124e9a88e09cebbcdee5c0a380b10e9f18a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/support-annotations-24.2.1_785a24371e5e5d2f24a6c9e93ded8b888ade42a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-24.2.1_588edef3c1670b8df89ed5af7e1bbba5311c84b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-24.2.1_1c9354426547e9f06a6e5abc76c6a2b44f533369.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-24.2.1_6174c7dbb8e15acda97a96d567b340f06d4b8723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-24.2.1_39a38578648f59e55bdc0fa139e5249d4c218e32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_a2ef63aa562dd0b15805cfce92939ad7e2eef03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/internal_impl-24.2.1_591fe031d1e686a8cfed0fe645844a9a63a122ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-24.2.1_9cf7a96953ef270ebaa9fa8786551563f2026217.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.pnikosis-materialish-progress-1.0_ea827aeae051a2991fe53862e14a9b5cd704bc6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-24.2.1_c0418a829824d6860fe79f11d97fe168dda135fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-24.2.1_4f8da1e5621e0dfe8687e8709e5d6ff43d5a6d9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/Users/kevinjanvier/Documents/Project/Android/Angalia/app/build/intermediates/pre-dexed/release/cn.pedant.sweetalert-library-1.3_93956f22ceb5557206fdb948565171997b8276dc.jar" />
+    </item>
+
+</items>

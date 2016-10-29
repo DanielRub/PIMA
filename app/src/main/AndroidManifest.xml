@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kevinjanvier.angalia"
+   >
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".PimaApp"
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon"
+        tools:overrideLibrary="io.branch.referral">
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <!-- Add this intent filter below, and change yourapp to your app name -->
+
+            <intent-filter>
+                <data android:scheme="pima" android:host="open" />
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".PhonePassed">
+
+        </activity>
+        <activity android:name=".MainActivity">
+
+        </activity>
+        <meta-data android:name="io.branch.sdk.BranchKey"
+            android:value="key_live_jmvkx9cZgmSm2e73njgIipppwBbk2rNg" />
+
+        <receiver android:name="io.branch.referral.InstallListener"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>
