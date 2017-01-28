@@ -92,42 +92,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void PhoneState() {
-        DeviceVersionChecker = Build.MODEL;
-        log("===Phone Model =" + DeviceVersionChecker);
-/**
- * Dialog Display
- */
-        final SweetAlertDialog pDialog = new SweetAlertDialog(MainActivity.this, SweetAlertDialog.PROGRESS_TYPE);
-        pDialog.getProgressHelper().setBarColor(Color.parseColor("#A5DC86"));
-        pDialog.setTitleText(getString(R.string.please_wait));
-        pDialog.setCancelable(false);
-        pDialog.show();
-
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-                pDialog.dismiss();
-                if (DeviceVersionChecker.contains("SM-N930")){
-                    log("Your Phone Will Explore  : " +DeviceVersionChecker);
-
-                    new SweetAlertDialog(MainActivity.this, SweetAlertDialog.CUSTOM_IMAGE_TYPE)
-                            .setTitleText("Sweet!")
-                            .setContentText("Here's a custom image.")
-                            .setCustomImage(R.drawable.fire)
-                            .show();
-
-
-                }else {
-                    log("Good Display Phone Version : " + DeviceVersionChecker);
-                    Intent intent = new Intent(MainActivity.this, PhonePassed.class);
-                    startActivity(intent);
-                }
-            }
-        }, 3000);
-
-
-    }
+  //Phone State Methods is out  contact Kevin Janvier to join the Team
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
